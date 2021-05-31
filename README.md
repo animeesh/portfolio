@@ -1,4 +1,4 @@
-# John Doe
+# Animesh Nayak
 *An Aspiring Data Scientist | 2X Kaggle Grandmaster*
 
 # Education
