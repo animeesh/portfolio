@@ -1,7 +1,7 @@
 # Animesh Nayak
 *An Aspiring Machine Learning  | intern @ Ineuron
-<A href="https://github.com/animeesh">github</A>
-<A href="www.linkedin.com/in/animeshnayak">linkedin</A>
+\n<A href="https://github.com/animeesh">github</A>
+\n<A href="www.linkedin.com/in/animeshnayak">linkedin</A>
 
 # Education
 
