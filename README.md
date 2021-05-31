@@ -1,11 +1,13 @@
 # Animesh Nayak
 *An Aspiring Machine Learning  | intern @ Ineuron
+<A href="https://github.com/animeesh">github</A>
+<A href="www.linkedin.com/in/animeshnayak">linkedin</A>
 
 # Education
-* Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Technology (Electrical & Electronic Eniginnering), *JNTUH University*, 2012-2016
 
-# [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
+* Bachelors of Technology (Electrical & Electronic Eniginnering), *JNTUH University*, 2014-2018
+
+# [Project 1: AI gym Trainer(gymmi)](http://youtube.com/dataprofessor)
 Photo by <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-1014575498-pcb-board-mainboard-smd-processor-animation-design&psig=AOvVaw3Kc07Pz8nconwKurpbviW0&ust=1622506988433000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCF19vT8vACFQAAAAAdAAAAABAD">Unsplash</a>
 
 This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
@@ -13,7 +15,7 @@ This project integrates various news source for performing sentiment analysis pe
 * **Input:** Tweets, News
 * **Output:** Sentiment of Cryptocurrency
 
-# [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
+# [Project 2:PCB Fault detection](http://youtube.com/dataprofessor)
 ![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@nampoh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maxim Hopman</a> on <a href="https://unsplash.com/s/photos/cryptocurrency-trading?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
