@@ -1,9 +1,9 @@
 # Animesh Nayak
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+*An Aspiring Machine Learning  | intern @ Ineuron
 
 # Education
 * Masters of Science (Data Science), *YouTube University*, 2016-2018
-* Bachelors of Science (Data Science), *YouTube University*, 2012-2016
+* Bachelors of Technology (Electrical & Electronic Eniginnering), *JNTUH University*, 2012-2016
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 Photo by <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-1014575498-pcb-board-mainboard-smd-processor-animation-design&psig=AOvVaw3Kc07Pz8nconwKurpbviW0&ust=1622506988433000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCF19vT8vACFQAAAAAdAAAAABAD">Unsplash</a>
