@@ -11,9 +11,9 @@
 Photo by <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fvideo%2Fclip-1014575498-pcb-board-mainboard-smd-processor-animation-design&psig=AOvVaw3Kc07Pz8nconwKurpbviW0&ust=1622506988433000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCF19vT8vACFQAAAAAdAAAAABAD">Unsplash</a>
 
 This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
-* **Python libraries used:** Streamlit, Huggingface, TensorFlow
-* **Input:** Tweets, News
-* **Output:** Sentiment of Cryptocurrency
+* **Python libraries used:** HTML/CSS, Mediapipe, Flask
+* **Input:** Computer vison(cammera)
+* **Output:** your posture with angles & the number of sets and reps
 
 # [Project 2:PCB Fault detection](http://youtube.com/dataprofessor)
 ![alt text](maxim-hopman-fiXLQXAhCfk-unsplash.jpg)
