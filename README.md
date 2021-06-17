@@ -7,7 +7,7 @@
 
 * Bachelors of Technology (Electrical & Electronic Eniginnering), *JNTUH University*, 2014-2018
 
-# [Project 1: AI gym Trainer(gymmi)](http://youtube.com/dataprofessor)
+# [Project 1: AI gym Trainer(gymmie)](http://youtube.com/dataprofessor)
 ![](https://github.com/animeesh/ai-gym-trainer/blob/main/static/images/Screenshot%20(67).png)
 
 
